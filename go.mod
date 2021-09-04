@@ -5,7 +5,7 @@ require (
 	github.com/PuerkitoBio/purell v1.1.1
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/alecthomas/chroma v0.9.2
-	github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1 // indirect
+	github.com/alecthomas/repr v0.0.0-20210801044451-80ca428c5142 // indirect
 	github.com/armon/go-radix v1.0.0
 	github.com/aws/aws-sdk-go v1.40.8
 	github.com/bep/debounce v1.2.0
@@ -28,7 +28,7 @@ require (
 	github.com/gohugoio/go-i18n/v2 v2.1.3-0.20210430103248-4c28c89f8013
 	github.com/gohugoio/locales v0.14.0
 	github.com/gohugoio/localescompressed v0.14.0
-	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
+	github.com/gohugoio/testmodBuilder/mods v0.0.0-20201018083854-72e1e0c33291
 	github.com/google/go-cmp v0.5.6
 	github.com/gorilla/websocket v1.4.2
 	github.com/jdkato/prose v1.2.1
@@ -65,7 +65,7 @@ require (
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/text v0.3.7
 	google.golang.org/api v0.51.0
-	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
 
